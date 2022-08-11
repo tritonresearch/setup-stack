@@ -7,7 +7,7 @@ parameters.
 Usage:
 
 ```yaml
-use: mstksg/setup-stack@v1
+use: tritonresearch/setup-stack@v1
 ```
 
 Is cross-platform for ubuntu, macOS and windows.
